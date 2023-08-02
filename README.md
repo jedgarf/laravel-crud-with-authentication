@@ -3,7 +3,7 @@
 ## Tech Stack Used
 
 - PHP 7.4/Laravel 8.
-- MYSQL 5.7.
+- MySQL 5.7.
 - CSS/Bootstrap 4.
 
 
@@ -21,5 +21,5 @@ If your local DB have a password you can add it in .env file.
 
 ## Dafault Account
 
-email: admin@dev.com
+email: admin@dev.com  
 password: admin123
