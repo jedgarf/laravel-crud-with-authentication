@@ -10,7 +10,7 @@
 ## Installation
 
 - Clone this repository to your working directory.
-- Create database "astropolisinctechexam".
+- Create database "laravel_crud".
 - Run this command to migrate all tables "php artisan migrate".
 - Run this command to insert default user account "php artisan db:seed --class=UsersTableSeeder".
 
