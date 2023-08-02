@@ -25,7 +25,7 @@
 
 	    <!-- Title -->
 	    <div class="fadeIn first login-header-text">
-	      <h2>Astropolis, Inc. - Technical Exam</h2>
+	      <h2>Basic CRUD with Login</h2>
 	    </div>
 
 	    <!-- Login Form -->

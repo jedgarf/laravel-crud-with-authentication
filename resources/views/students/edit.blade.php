@@ -4,7 +4,7 @@
 
   	<div class="row mr-1">
   		<div class="col-7">
-  			<h3 class="mt-4 ml-3 mb-4"><i class="fa fa-user-plus"></i> Update Student</h3>
+  			<h3 class="mt-4 ml-3 mb-4"><i class="fa fa-edit"></i> Update Student</h3>
   		</div>
   		<div class="col-5 text-right">
   			<button class="btn btn-success mt-4 ml-3 mb-4" onclick="goto_students()"><i class="fa fa-list"></i> Student List</button>
